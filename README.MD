@@ -19,7 +19,7 @@ Full description of my research you can find [here](sources/ENGsemesterProject.p
 
 There is also [python code](src/semester_project.ipynb) I used to search energy for molecules _LiH_ and _H_2_. That code
 was written at the end of 2022 during the third semester, and as I mentioned in my presentation, python libraries for
-quantum computing are constantly changing. Unfortunately, on of the cells throws Assertion Error because one of the
+quantum computing are constantly changing. Unfortunately, one of the cells throws Assertion Error because one of the
 classes no longer contains the method used in this cell. However, the result of searching energies you can find at the
 end of my presentation. 
 
