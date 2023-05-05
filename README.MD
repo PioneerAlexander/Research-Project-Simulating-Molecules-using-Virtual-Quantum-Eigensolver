@@ -1,4 +1,4 @@
-# Research Project "Simulating Molecules using Virtual Quantum Solver"
+# Research Project "Simulating Molecules using Virtual Quantum EigenSolver"
 
 The project is devoted to molecular modeling, a widely used and rapidly developing field of science.
 This field requires a high level of knowledge in quantum physics and quantum chemistry,
